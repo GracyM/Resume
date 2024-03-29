@@ -1,9 +1,13 @@
 # Resume
 
 Gracy Mendonca	
+
 Mobile: +16412339700
+
 Email: gracyem20@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/gracy-mendonca-85498850/ 
+
 Visa: H4 EAD 
 
 Career Summary:
