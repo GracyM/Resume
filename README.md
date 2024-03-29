@@ -13,7 +13,7 @@ Visa: H4 EAD
 Career Summary:
 
 Have worked with only one goal in mind "Provide the customer with the best experience on the products I support". I achieved this by upskilling in mutiple Products and technologies, leading worldwide customer focused initiatives, educating the customers. I was rewarded by the customer with great feedback and surveys.
-My goal for the future is to have a framework/mindset designed for a support organization like we have agile for the software development.
+My goal for the future is to have a framework/mindset designed for a support organization like we have Agile for the software development.
 
 Professional Experience and Expertise:
 
@@ -67,9 +67,11 @@ Lecturer (Oct 2009 – Mid July 2010)
 Technical presentations given:
 
 BI Auditing and Notification 
+
 1. https://www-01.ibm.com/support/docview.wss?uid=swg21643478
  
 TM1 Monitoring Tools
+
 2. http://www-01.ibm.com/support/docview.wss?uid=swg27047983  
 
 Strengths:
