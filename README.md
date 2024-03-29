@@ -12,7 +12,7 @@ Visa: H4 EAD
 
 Career Summary:
 
-Have worked with only one goal in mind "Provide the customer with the best experience on the products I support". I achieved this by upskilling in mutiple Products and technologies, leading worldwide customer focused initiatives, educating the customers. I was rewarded by the customer with great feedback and surveys.
+I have worked with only one goal in mind "Provide the customer with the best experience on the products I support". I achieved this by upskilling in mutiple Products and technologies, leading worldwide customer focused initiatives, educating the customers. I was rewarded by the customer with great feedback and surveys.
 My goal for the future is to have a framework/mindset designed for a support organization like we have Agile for the software development.
 
 Professional Experience and Expertise:
