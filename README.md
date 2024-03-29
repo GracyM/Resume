@@ -42,7 +42,8 @@ Sr Product Specialist (July 2010 – Aug 2020)
 6. Coach new joinee within the team that help them being productive taking cases within one month.
 7. Lead worldwide support initiatives like Open Mic sharing technical knowledge and release information with the customer, Customer Enablement helping customer onboarding to the support team
 
-Knowledge / Or hands on experience with
+Knowledge / Or hands on experience with:
+
 Agile, ITIL and SCRUM methodologies.
 Change Management and Incident Management
 DevOps
