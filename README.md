@@ -32,19 +32,18 @@ IBM
 
 Sr Product Specialist (July 2010 – Aug 2020)
 
-Roles and Responsibilities:      
-
 1. Work on Salesforce cases for customers worldwide for problems with installation and configuration, integration, upgrade, backup and recovery, performance tuning, security setup (SSL and SSO), vulnerability assessment, troubleshooting reporting errors and how-to queries. Address the manager severity 1 PagerDuty calls. Products supported: Cognos Analytics(aka Cognos BI), Cognos Planning Analytics (aka Cognos TM1).
 2. Quick testing/replicating customer issues in-house and triaging defects helped reduce the turnaround time for defects by 30%. Work with defect escalation team and development team to provide a fix to the customer in a timely manner. 
 3. Achieved a 100% customer satisfaction score for multiple years and a high Net promoter score of 70+ . Personally engaged with clients over phone to learn their pain points, address their concerns and turn unhappy customers to happy ones.
 4. Managed escalations very well by collaborating with the IBM Product Management Team and customers in a timely manner.
 5. Authored over 100 technical notes on various complex issues. I was promoted as a KCS Reviewer (level 3) to review documents/Tech Notes written by peers across the globe.
 6. Coach new joinee within the team that help them being productive taking cases within one month.
-7. Lead worldwide support initiatives like Open Mic sharing technical knowledge and release information with the customer, Customer Enablement helping customer onboarding to the support team.
+7. Lead worldwide support initiatives like Open Mic sharing technical knowledge and release information with the customer, Customer Enablement helping customer onboarding to the support team
+
 Knowledge / Or hands on experience with
 Agile, ITIL and SCRUM methodologies.
 Change Management and Incident Management
-Git/Github, Maven, Jenkins, Ansible
+DevOps
 Red Hat Linux, Windows Servers
 Docker, Hypervisors (Virtualization)
 Webservers - IIS, Apache, IBM Http Server
@@ -80,16 +79,12 @@ Strengths:
 6. I can multitask several projects with complete composure and professionalism under high pressure.
 7. I am good at sharing knowledge and educating the customers to use our Products to its full potential.
 
-Academic Qualification:
-
-Highest Qualification: BE (Computer Science), Pune University
-
 Achievements:
-At IBM India received:
-Manager Choice Award for “Keeping the Client first” in 2016 and 2018 for being proactive in escalation handling.
-As an appreciation of my work (for taking up a second product Planning Analytics in addition to my current portfolio of Cognos Analytics) I was given an opportunity to attend the Cognos Insight Conference in Las Vegas in 2015
-Received the Global Supporter Award for 1H 2014 for my work on Open Mic (a global initiative for customers)
-I received the Excellence and Eminence Award and a Top Contributor award for 2013.
+
+1. Manager Choice Award for “Keeping the Client first” in 2016 and 2018 for being proactive in escalation handling.
+2. For excellence in commitment I was given an opportunity to attend the Cognos Insight Conference in Las Vegas in 2015
+3. Received the Global Supporter Award for 1H 2014 for my work on Open Mic (a global initiative for customers)
+4. I received the Excellence and Eminence Award and a Top Contributor award for 2013.
 
 Certifications Completed:
 
@@ -97,5 +92,9 @@ Certifications Completed:
 2. IBM Certified Administrator- Cognos TM1
 3. Certified Scrum Master (Scrum Alliance)
 4. Agile Project Management
+
+Academic Qualification:
+
+Highest Qualification: BE (Computer Science), Pune University
  
 
