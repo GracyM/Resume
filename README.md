@@ -21,20 +21,20 @@ Intercontinental Exchange Mortgage Technology
 
 Sr. User Readiness Business Analyst (Sept 2020 - June 2023) 
 
-1. Successfully lead projects for customers like JP Morgan Chase that involved working with Engineering and Product for product trainings, working with Professional services for smooth transition of the customer to regular Support, built several environments for the Support team that mimic the ones made for the customer for testing purpose.
+1. Successfully lead projects for customers like JP Morgan Chase, Amerihome that involved working with Engineering for defect fixes and Product for product trainings, working with Professional services for smooth transition of the customer to regular Support.
 2. Expertise in review, resolve and triage of incoming defects and enhancement requests reported by various teams. Work closely with Product and Engineering teams to commit and prioritize defects and enhancements for future releases.
 3. Leverage technical expertise, support skills and domain knowledge to develop new processes that enhance the product readiness for every release.
-4. Built technical product courses in Articulate 360 like AIQ Administration, AIQ OSS, AIQ Analyzer for everyone within ICE to learn AIQ.
+4. Authored technical product courses in Articulate 360 like AIQ Administration, AIQ OSS, AIQ Analyzer for everyone within ICE to learn AIQ.
 5. Build test environments for Support with all required features/preferences with every GO Live of a customer.
 6. Collaborated in pre-release testing to verify the features and log defects, ask questions to get more details on the features and document the learnings and troubleshooting data useful to Support.
 7. Act as an SME to drive post release cross-product triage process engagements with Product Management, Engineering, and Customer Success teams to track escalated defects. 
-8. Ensure to gather and maintain up to date information on all Release resources like Release Dates, Release Notes, Release Demos etc. on the Readiness SharePoint site.
+8. Host up to date information on all Release resources like Release Dates, Release Notes, Release Demos etc. on the Readiness SharePoint site.
 
 IBM
 
 Sr Product Specialist (July 2010 – Aug 2020)
 
-1. Work on Salesforce cases for customers worldwide for problems with installation and configuration, integration, upgrade, backup and recovery, performance tuning, security setup (SSL and SSO), vulnerability assessment, troubleshooting reporting errors and how-to queries. Address the manager severity 1 PagerDuty calls. Products supported: Cognos Analytics(aka Cognos BI), Cognos Planning Analytics (aka Cognos TM1).
+1. Case Management via Salesforce for customers worldwide for problems with installation and configuration, integration, upgrade, backup and recovery, performance tuning, security setup (SSL and SSO), vulnerability assessment, troubleshooting reporting errors and how-to queries. Address the manager severity 1 PagerDuty calls. Products supported: Cognos Analytics(aka Cognos BI), Cognos Planning Analytics (aka Cognos TM1).
 2. Quick testing/replicating customer issues in-house and triaging defects helped reduce the turnaround time for defects by 30%. Work with defect escalation team and development team to provide a fix to the customer in a timely manner. 
 3. Achieved a 100% customer satisfaction score for multiple years and a high Net promoter score of 70+ . Personally engaged with clients over phone to learn their pain points, address their concerns and turn unhappy customers to happy ones.
 4. Managed escalations very well by collaborating with the IBM Product Management Team and customers in a timely manner.
